@@ -1,0 +1,378 @@
+[debug] [2019-12-25T14:39:42.631Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T14:39:42.634Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js App Tutorial\marioplan\node_modules\.bin\
+[debug] [2019-12-25T14:39:42.634Z] CLI Version:   7.11.0
+[debug] [2019-12-25T14:39:42.634Z] Platform:      win32
+[debug] [2019-12-25T14:39:42.634Z] Node Version:  v12.13.0
+[debug] [2019-12-25T14:39:42.635Z] Time:          Wed Dec 25 2019 12:39:42 GMT-0200 (Brasilia Summer Time)
+[debug] [2019-12-25T14:39:42.635Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T14:39:42.635Z] 
+[error] Error: [object Object] is not a Firebase command
+[debug] [2019-12-25T14:39:42.648Z] TypeError: str.toLowerCase is not a function
+    at didYouMean (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\didyoumean\didYouMean-1.2.1.js:147:48)
+    at suggestCommands (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:28:22)
+    at Command.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:57:14)
+    at Command.listener (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:360:8)
+    at Command.emit (events.js:210:5)
+    at Command.EventEmitter.emit (domain.js:476:20)
+    at Command.parseArgs (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:801:12)
+    at Command.parse (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:563:21)
+    at Object.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js:98:22)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1025:10)
+    at internal/main/run_main_module.js:17:11
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2019-12-25T14:40:12.269Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T14:40:12.273Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js App Tutorial\marioplan\node_modules\.bin\
+[debug] [2019-12-25T14:40:12.273Z] CLI Version:   7.11.0
+[debug] [2019-12-25T14:40:12.273Z] Platform:      win32
+[debug] [2019-12-25T14:40:12.273Z] Node Version:  v12.13.0
+[debug] [2019-12-25T14:40:12.274Z] Time:          Wed Dec 25 2019 12:40:12 GMT-0200 (Brasilia Summer Time)
+[debug] [2019-12-25T14:40:12.274Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T14:40:12.274Z] 
+[error] Error: [object Object] is not a Firebase command
+[debug] [2019-12-25T14:40:12.285Z] TypeError: str.toLowerCase is not a function
+    at didYouMean (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\didyoumean\didYouMean-1.2.1.js:147:48)
+    at suggestCommands (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:28:22)
+    at Command.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:57:14)
+    at Command.listener (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:360:8)
+    at Command.emit (events.js:210:5)
+    at Command.EventEmitter.emit (domain.js:476:20)
+    at Command.parseArgs (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:801:12)
+    at Command.parse (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:563:21)
+    at Object.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js:98:22)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1025:10)
+    at internal/main/run_main_module.js:17:11
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2019-12-25T14:40:59.375Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T14:40:59.378Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js App Tutorial\marioplan\node_modules\.bin\
+[debug] [2019-12-25T14:40:59.378Z] CLI Version:   7.11.0
+[debug] [2019-12-25T14:40:59.378Z] Platform:      win32
+[debug] [2019-12-25T14:40:59.378Z] Node Version:  v12.13.0
+[debug] [2019-12-25T14:40:59.379Z] Time:          Wed Dec 25 2019 12:40:59 GMT-0200 (Brasilia Summer Time)
+[debug] [2019-12-25T14:40:59.379Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T14:40:59.379Z] 
+[error] Error: [object Object] is not a Firebase command
+[debug] [2019-12-25T14:40:59.388Z] TypeError: str.toLowerCase is not a function
+    at didYouMean (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\didyoumean\didYouMean-1.2.1.js:147:48)
+    at suggestCommands (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:28:22)
+    at Command.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:57:14)
+    at Command.listener (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:360:8)
+    at Command.emit (events.js:210:5)
+    at Command.EventEmitter.emit (domain.js:476:20)
+    at Command.parseArgs (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:801:12)
+    at Command.parse (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:563:21)
+    at Object.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js:98:22)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1025:10)
+    at internal/main/run_main_module.js:17:11
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2019-12-25T14:43:53.855Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T14:43:53.858Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js App Tutorial\marioplan\node_modules\.bin\
+[debug] [2019-12-25T14:43:53.858Z] CLI Version:   7.11.0
+[debug] [2019-12-25T14:43:53.858Z] Platform:      win32
+[debug] [2019-12-25T14:43:53.858Z] Node Version:  v12.13.0
+[debug] [2019-12-25T14:43:53.859Z] Time:          Wed Dec 25 2019 12:43:53 GMT-0200 (Brasilia Summer Time)
+[debug] [2019-12-25T14:43:53.859Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T14:43:53.859Z] 
+[error] Error: [object Object] is not a Firebase command
+[debug] [2019-12-25T14:43:53.869Z] TypeError: str.toLowerCase is not a function
+    at didYouMean (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\didyoumean\didYouMean-1.2.1.js:147:48)
+    at suggestCommands (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:28:22)
+    at Command.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:57:14)
+    at Command.listener (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:360:8)
+    at Command.emit (events.js:210:5)
+    at Command.EventEmitter.emit (domain.js:476:20)
+    at Command.parseArgs (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:801:12)
+    at Command.parse (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:563:21)
+    at Object.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js:98:22)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1025:10)
+    at internal/main/run_main_module.js:17:11
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2019-12-25T14:44:49.736Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T14:44:49.738Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js App Tutorial\marioplan\node_modules\.bin\
+[debug] [2019-12-25T14:44:49.738Z] CLI Version:   7.11.0
+[debug] [2019-12-25T14:44:49.738Z] Platform:      win32
+[debug] [2019-12-25T14:44:49.739Z] Node Version:  v12.13.0
+[debug] [2019-12-25T14:44:49.739Z] Time:          Wed Dec 25 2019 12:44:49 GMT-0200 (Brasilia Summer Time)
+[debug] [2019-12-25T14:44:49.739Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T14:44:49.739Z] 
+[error] Error: [object Object] is not a Firebase command
+[debug] [2019-12-25T14:44:49.748Z] TypeError: str.toLowerCase is not a function
+    at didYouMean (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\didyoumean\didYouMean-1.2.1.js:147:48)
+    at suggestCommands (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:28:22)
+    at Command.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:57:14)
+    at Command.listener (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:360:8)
+    at Command.emit (events.js:210:5)
+    at Command.EventEmitter.emit (domain.js:476:20)
+    at Command.parseArgs (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:801:12)
+    at Command.parse (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:563:21)
+    at Object.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js:98:22)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1025:10)
+    at internal/main/run_main_module.js:17:11
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2019-12-25T14:47:14.465Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T14:47:14.479Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js App Tutorial\marioplan\node_modules\.bin\
+[debug] [2019-12-25T14:47:14.480Z] CLI Version:   7.11.0
+[debug] [2019-12-25T14:47:14.480Z] Platform:      win32
+[debug] [2019-12-25T14:47:14.480Z] Node Version:  v12.13.0
+[debug] [2019-12-25T14:47:14.481Z] Time:          Wed Dec 25 2019 12:47:14 GMT-0200 (Brasilia Summer Time)
+[debug] [2019-12-25T14:47:14.481Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T14:47:14.481Z] 
+[error] Error: [object Object] is not a Firebase command
+[debug] [2019-12-25T14:47:14.544Z] TypeError: str.toLowerCase is not a function
+    at didYouMean (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\didyoumean\didYouMean-1.2.1.js:147:48)
+    at suggestCommands (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:28:22)
+    at Command.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:57:14)
+    at Command.listener (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:360:8)
+    at Command.emit (events.js:210:5)
+    at Command.EventEmitter.emit (domain.js:476:20)
+    at Command.parseArgs (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:801:12)
+    at Command.parse (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:563:21)
+    at Object.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js:98:22)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1025:10)
+    at internal/main/run_main_module.js:17:11
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2019-12-25T14:48:48.563Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T14:48:48.566Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js App Tutorial\marioplan\node_modules\.bin\
+[debug] [2019-12-25T14:48:48.566Z] CLI Version:   7.11.0
+[debug] [2019-12-25T14:48:48.566Z] Platform:      win32
+[debug] [2019-12-25T14:48:48.567Z] Node Version:  v12.13.0
+[debug] [2019-12-25T14:48:48.567Z] Time:          Wed Dec 25 2019 12:48:48 GMT-0200 (Brasilia Summer Time)
+[debug] [2019-12-25T14:48:48.568Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T14:48:48.568Z] 
+[error] Error: [object Object] is not a Firebase command
+[debug] [2019-12-25T14:48:48.576Z] TypeError: str.toLowerCase is not a function
+    at didYouMean (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\didyoumean\didYouMean-1.2.1.js:147:48)
+    at suggestCommands (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:28:22)
+    at Command.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:57:14)
+    at Command.listener (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:360:8)
+    at Command.emit (events.js:210:5)
+    at Command.EventEmitter.emit (domain.js:476:20)
+    at Command.parseArgs (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:801:12)
+    at Command.parse (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:563:21)
+    at Object.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js:98:22)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1025:10)
+    at internal/main/run_main_module.js:17:11
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2019-12-25T15:00:59.602Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T15:00:59.605Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js App Tutorial\marioplan\node_modules\.bin\
+[debug] [2019-12-25T15:00:59.605Z] CLI Version:   7.11.0
+[debug] [2019-12-25T15:00:59.605Z] Platform:      win32
+[debug] [2019-12-25T15:00:59.605Z] Node Version:  v12.13.0
+[debug] [2019-12-25T15:00:59.606Z] Time:          Wed Dec 25 2019 13:00:59 GMT-0200 (Brasilia Summer Time)
+[debug] [2019-12-25T15:00:59.606Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T15:00:59.606Z] 
+[error] Error: [object Object] is not a Firebase command
+[debug] [2019-12-25T15:00:59.618Z] TypeError: str.toLowerCase is not a function
+    at didYouMean (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\didyoumean\didYouMean-1.2.1.js:147:48)
+    at suggestCommands (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:28:22)
+    at Command.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:57:14)
+    at Command.listener (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:360:8)
+    at Command.emit (events.js:210:5)
+    at Command.EventEmitter.emit (domain.js:476:20)
+    at Command.parseArgs (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:801:12)
+    at Command.parse (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:563:21)
+    at Object.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js:98:22)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1025:10)
+    at internal/main/run_main_module.js:17:11
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2019-12-25T15:01:28.133Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T15:01:28.136Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js App Tutorial\marioplan\node_modules\.bin\
+[debug] [2019-12-25T15:01:28.136Z] CLI Version:   7.11.0
+[debug] [2019-12-25T15:01:28.136Z] Platform:      win32
+[debug] [2019-12-25T15:01:28.136Z] Node Version:  v12.13.0
+[debug] [2019-12-25T15:01:28.137Z] Time:          Wed Dec 25 2019 13:01:28 GMT-0200 (Brasilia Summer Time)
+[debug] [2019-12-25T15:01:28.137Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T15:01:28.137Z] 
+[error] Error: [object Object] is not a Firebase command
+[debug] [2019-12-25T15:01:28.147Z] TypeError: str.toLowerCase is not a function
+    at didYouMean (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\didyoumean\didYouMean-1.2.1.js:147:48)
+    at suggestCommands (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:28:22)
+    at Command.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:57:14)
+    at Command.listener (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:360:8)
+    at Command.emit (events.js:210:5)
+    at Command.EventEmitter.emit (domain.js:476:20)
+    at Command.parseArgs (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:801:12)
+    at Command.parse (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:563:21)
+    at Object.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js:98:22)
+    at Module._compile (internal/modules/cjs/loader.js:956:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)
+    at Module.load (internal/modules/cjs/loader.js:812:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1025:10)
+    at internal/main/run_main_module.js:17:11
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2019-12-25T15:17:38.254Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T15:17:38.259Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js App Tutorial\marioplan\node_modules\.bin\
+[debug] [2019-12-25T15:17:38.259Z] CLI Version:   7.11.0
+[debug] [2019-12-25T15:17:38.259Z] Platform:      win32
+[debug] [2019-12-25T15:17:38.259Z] Node Version:  v12.14.0
+[debug] [2019-12-25T15:17:38.260Z] Time:          Wed Dec 25 2019 12:17:38 GMT-0300 (Brasilia Standard Time)
+[debug] [2019-12-25T15:17:38.260Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T15:17:38.260Z] 
+[error] Error: [object Object] is not a Firebase command
+[debug] [2019-12-25T15:17:38.269Z] TypeError: str.toLowerCase is not a function
+    at didYouMean (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\didyoumean\didYouMean-1.2.1.js:147:48)
+    at suggestCommands (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:28:22)
+    at Command.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:57:14)
+    at Command.listener (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:360:8)
+    at Command.emit (events.js:210:5)
+    at Command.EventEmitter.emit (domain.js:475:20)
+    at Command.parseArgs (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:801:12)
+    at Command.parse (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:563:21)
+    at Object.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js:98:22)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1047:10)
+    at internal/main/run_main_module.js:17:11
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2019-12-25T15:20:07.677Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T15:20:07.680Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js App Tutorial\marioplan\node_modules\.bin\
+[debug] [2019-12-25T15:20:07.680Z] CLI Version:   7.11.0
+[debug] [2019-12-25T15:20:07.680Z] Platform:      win32
+[debug] [2019-12-25T15:20:07.680Z] Node Version:  v12.14.0
+[debug] [2019-12-25T15:20:07.681Z] Time:          Wed Dec 25 2019 12:20:07 GMT-0300 (Brasilia Standard Time)
+[debug] [2019-12-25T15:20:07.681Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T15:20:07.681Z] 
+[error] Error: [object Object] is not a Firebase command
+[debug] [2019-12-25T15:20:07.689Z] TypeError: str.toLowerCase is not a function
+    at didYouMean (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\didyoumean\didYouMean-1.2.1.js:147:48)
+    at suggestCommands (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:28:22)
+    at Command.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:57:14)
+    at Command.listener (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:360:8)
+    at Command.emit (events.js:210:5)
+    at Command.EventEmitter.emit (domain.js:475:20)
+    at Command.parseArgs (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:801:12)
+    at Command.parse (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:563:21)
+    at Object.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js:98:22)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1047:10)
+    at internal/main/run_main_module.js:17:11
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2019-12-25T15:21:49.670Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T15:21:49.673Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js App Tutorial\marioplan\node_modules\.bin\
+[debug] [2019-12-25T15:21:49.673Z] CLI Version:   7.11.0
+[debug] [2019-12-25T15:21:49.673Z] Platform:      win32
+[debug] [2019-12-25T15:21:49.673Z] Node Version:  v12.14.0
+[debug] [2019-12-25T15:21:49.674Z] Time:          Wed Dec 25 2019 12:21:49 GMT-0300 (Brasilia Standard Time)
+[debug] [2019-12-25T15:21:49.674Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T15:21:49.674Z] 
+[error] Error: [object Object] is not a Firebase command
+[debug] [2019-12-25T15:21:49.682Z] TypeError: str.toLowerCase is not a function
+    at didYouMean (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\didyoumean\didYouMean-1.2.1.js:147:48)
+    at suggestCommands (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:28:22)
+    at Command.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:57:14)
+    at Command.listener (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:360:8)
+    at Command.emit (events.js:210:5)
+    at Command.EventEmitter.emit (domain.js:475:20)
+    at Command.parseArgs (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:801:12)
+    at Command.parse (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:563:21)
+    at Object.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js:98:22)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1047:10)
+    at internal/main/run_main_module.js:17:11
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2019-12-25T15:23:38.609Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T15:23:38.612Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js App Tutorial\marioplan\node_modules\.bin\
+[debug] [2019-12-25T15:23:38.612Z] CLI Version:   7.11.0
+[debug] [2019-12-25T15:23:38.613Z] Platform:      win32
+[debug] [2019-12-25T15:23:38.613Z] Node Version:  v12.14.0
+[debug] [2019-12-25T15:23:38.619Z] Time:          Wed Dec 25 2019 12:23:38 GMT-0300 (Brasilia Standard Time)
+[debug] [2019-12-25T15:23:38.620Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T15:23:38.620Z] 
+[error] Error: [object Object] is not a Firebase command
+[debug] [2019-12-25T15:23:38.628Z] TypeError: str.toLowerCase is not a function
+    at didYouMean (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\didyoumean\didYouMean-1.2.1.js:147:48)
+    at suggestCommands (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:28:22)
+    at Command.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:57:14)
+    at Command.listener (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:360:8)
+    at Command.emit (events.js:210:5)
+    at Command.EventEmitter.emit (domain.js:475:20)
+    at Command.parseArgs (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:801:12)
+    at Command.parse (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:563:21)
+    at Object.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js:98:22)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1047:10)
+    at internal/main/run_main_module.js:17:11
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2019-12-25T15:24:55.777Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T15:24:55.781Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js App Tutorial\marioplan\node_modules\.bin\
+[debug] [2019-12-25T15:24:55.781Z] CLI Version:   7.11.0
+[debug] [2019-12-25T15:24:55.781Z] Platform:      win32
+[debug] [2019-12-25T15:24:55.781Z] Node Version:  v12.14.0
+[debug] [2019-12-25T15:24:55.782Z] Time:          Wed Dec 25 2019 12:24:55 GMT-0300 (Brasilia Standard Time)
+[debug] [2019-12-25T15:24:55.782Z] ----------------------------------------------------------------------
+[debug] [2019-12-25T15:24:55.782Z] 
+[error] Error: [object Object] is not a Firebase command
+[debug] [2019-12-25T15:24:55.790Z] TypeError: str.toLowerCase is not a function
+    at didYouMean (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\didyoumean\didYouMean-1.2.1.js:147:48)
+    at suggestCommands (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:28:22)
+    at Command.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:57:14)
+    at Command.listener (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:360:8)
+    at Command.emit (events.js:210:5)
+    at Command.EventEmitter.emit (domain.js:475:20)
+    at Command.parseArgs (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:801:12)
+    at Command.parse (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:563:21)
+    at Object.<anonymous> (C:\Users\VictorHigaki\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js:98:22)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1047:10)
+    at internal/main/run_main_module.js:17:11
+[error] 
+[error] Error: An unexpected error has occurred.
